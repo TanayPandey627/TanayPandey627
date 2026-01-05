@@ -1,7 +1,9 @@
 # 💫 About Me:
 Hi, I'm Tanay Pandey 👋 
 
-I am a Computer Science & Engineering student at SSIPMT Raipur (CPI 8.8) and an aspiring Software Developer. I specialize in full-stack development, using technologies like Django, Node.js, and ReactJS to create scalable and efficient software solutions.
+I am a Computer Science & Engineering student and an aspiring Software Developer. I specialize in full-stack development, using technologies like Django, Node.js, and ReactJS to create scalable and efficient software solutions.
+
+I have decent communication skills and good perseverance when solving complex logic or debugging backend systems. I have a proven ability to work in teams, having collaborated with other developers to build a responsive platforms. Additionally, I am passionate about open-source contributions and active version control.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanay-pandey-b94a44243/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tanaypandey682004@gmail.com) 
