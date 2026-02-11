@@ -32,15 +32,16 @@ I have strong communication skills and perseverance when solving complex logic o
 
 ---
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TanayPandey627&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TanayPandey627&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=TanayPandey627&theme=tokyonight&hide_border=true" />
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanayPandey627&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 </p>
+
 
 ---
 
